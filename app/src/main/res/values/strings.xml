@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecycleViewCount</string>
+
+    <string name="template_name">模板</string>
+
+    <string name="state_pull_rest_text">向下拉，没钱也任性</string>
+    <string name="state_pull_release_text">松手吧，且行且珍惜</string>
+    <string name="state_pull_refreshing_text">真的蛮拼的，甭急</string>
+    <string name="pull_refresh_success_text">萌萌哒，刷新成功</string>
+    <string name="pull_refresh_fail_text">我也是醉了，刷新失败</string>
+    <string name="state_load_rest_text">向上推，惊喜多多</string>
+    <string name="state_load_release_text">累觉不爱，放手吧</string>
+    <string name="state_loading_text">真的蛮拼的，甭急</string>
+    <string name="state_load_success_text">萌萌哒，加载成功</string>
+    <string name="state_load_fail_text">我也是醉了，加载失败</string>
+
+</resources>
